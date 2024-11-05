@@ -3,3 +3,16 @@ body{
     background:black;
 
 }
+header {
+    border: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: white;
+}
+
+section {
+background: rgb(184, 156, 213);
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+}
